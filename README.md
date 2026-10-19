@@ -11,11 +11,3 @@ Bienvenido/a al repositorio de las prácticas de la asignatura **Sistemas Operat
 - **Universidad:** [Rey Juan Carlos - Escuela de Ingeniería de Fuenlabrada]
 - **Curso Académico:** 2025 / 2026
 
----
-
-## Entorno y Herramientas
-
-- **Plataforma de simulación:** 
-- **Lenguaje:** c
-- **Librerías principales:**
-
